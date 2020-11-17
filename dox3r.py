@@ -140,7 +140,7 @@ def search():
     print('[✓] Analyse en cours veuillez patienter...')
     time.sleep(0.5)
 
-    time.sleep(3)
+    time.sleep(0)
 
     count = 0
     match = True 
