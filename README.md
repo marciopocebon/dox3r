@@ -4,7 +4,8 @@ python pour retrouver un utilisateur sur un site web.
 Installation/Pré-recquis :  
                
                ✓) Pré-recquis : https://www.python.org/  
-               ⤷ 1) gitclone https://github.com/shenronIT/dox3r.git       
+               
+               ⤷ 1) git clone https://github.com/shenronIT/dox3r.git       
                ⤷ 2) cd dox3r
                ⤷ 3) pip install requests
                ⤷ 4) python dox3r.py  
