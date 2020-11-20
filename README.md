@@ -3,14 +3,20 @@ python pour retrouver un utilisateur sur un site web.
 
 Installation/Pré-recquis :  
                
-               ✓) Pré-recquis : https://www.python.org/  
-               
-               ⤷ 1) git clone https://github.com/shenronIT/dox3r.git       
-               ⤷ 2) cd dox3r
-               ⤷ 3) pip install requests
-               ⤷ 4) python dox3r.py  
+               ✓) Pré-recquis : python / pip 
+
+               ⤷  $ pip install pylint
+               ⤷  $ pip install requests
+              
+#######################################################
+
+               ⤷ 1) $ git clone https://github.com/shenronIT/dox3r.git  
+               ( sur windows déplacer juste le fichier sur le bureau et rendez vous dans le doxier dox3r via le cmd )     
+               ⤷ 2) $ cd dox3r
+               ⤷ 3) $ python dox3r.py 
                
 ![alt text](https://github.com/shenronIT/dox3r/blob/main/dox3r.png?raw=true)
+               
                
                
                
