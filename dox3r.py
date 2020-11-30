@@ -133,7 +133,7 @@ def banner():
       
 
         \033[1;32m DOX3R outil de recherche avancée \033[1;32m  
-        \033[1;32m Programmer par : \032 https://github.com/shenronIT 
+        \033[1;32m Programmer par : \032 https://github.com/haisenberg 
         """)
 
 def search():
