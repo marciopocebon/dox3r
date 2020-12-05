@@ -9,7 +9,7 @@ import warnings
 from urllib3.exceptions import  InsecureRequestWarning
 warnings.simplefilter('ignore',InsecureRequestWarning)
 
-os.system('cls')
+os.system('clear')
 
 class bcolors:
     Redd         = "\033[31m"
@@ -110,30 +110,21 @@ DarkGray = outer_func('\033[90m')
 ''' BANNER '''
 def banner():
     print(bcolors.Redd + 
-""" 
+"""
 
-
-                                                                    
-                 ,----..                   .--,-``-.                
-    ,---,       /   /   \  ,--,     ,--,  /   /     '.  ,-.----.    
-  .'  .' `\    /   .     : |'. \   / .`| / ../        ; \    /  \   
-,---.'     \  .   /   ;.  \; \ `\ /' / ; \ ``\  .`-    ';   :    \  
-|   |  .`\  |.   ;   /  ` ;`. \  /  / .'  \___\/   \   :|   | .\ :  
-:   : |  '  |;   |  ; \ ; | \  \/  / ./        \   :   |.   : |: |  
-|   ' '  ;  :|   :  | ; | '  \  \.'  /         /  /   / |   |  \ :  
-'   | ;  .  |.   |  ' ' ' :   \  ;  ;          \  \   \ |   : .  /  
-|   | :  |  ''   ;  \; /  |  / \  \  \     ___ /   :   |;   | |  \  
-'   : | /  ;  \   \  ',  /  ;  /\  \  \   /   /\   /   :|   | ;\  \ 
-|   | '` ,/    ;   :    / ./__;  \  ;  \ / ,,/  ',-    .:   ' | \.' 
-;   :  .'       \   \ .'  |   : / \  \  ;\ ''\        ; :   : :-'   
-|   ,.'          `---`    ;   |/   \  ' | \   \     .'  |   |.'     
-'---'                     `---'     `--`   `--`-,,-'    `---'       
-                                                                    
-
-      
-
-        \033[1;32m DOX3R outil de recherche avancée \033[1;32m  
-        \033[1;32m Programmer par : \032 https://github.com/haisenberg 
+▓█████▄  ▒█████  ▒██   ██▒▓█████  ██▀███  
+▒██▀ ██▌▒██▒  ██▒▒▒ █ █ ▒░▓█   ▀ ▓██ ▒ ██▒
+░██   █▌▒██░  ██▒░░  █   ░▒███   ▓██ ░▄█ ▒
+░▓█▄   ▌▒██   ██░ ░ █ █ ▒ ▒▓█  ▄ ▒██▀▀█▄  
+░▒████▓ ░ ████▓▒░▒██▒ ▒██▒░▒████▒░██▓ ▒██▒
+ ▒▒▓  ▒ ░ ▒░▒░▒░ ▒▒ ░ ░▓ ░░░ ▒░ ░░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ░ ▒ ▒░ ░░   ░▒ ░ ░ ░  ░  ░▒ ░ ▒░
+ ░ ░  ░ ░ ░ ░ ▒   ░    ░     ░     ░░   ░ 
+   ░        ░ ░   ░    ░     ░  ░   ░     
+ ░                                        
+                                                                        
+        \033[33m DOX3R outil de recherche avancée \033[33m  
+        \033[33m Developpeur : \032 https://github.com/haisenberg 
         """)
 
 def search():
@@ -166,6 +157,3 @@ def search():
 if __name__=='__main__':
     banner()
     search()
-
-
-
