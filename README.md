@@ -20,8 +20,5 @@
 *Atteinte à la vie privée : enregistrement ou transmission de l'image ou des paroles d'une personne sans son consentement (peine : 1 an et 45.000 €)*
                
 ![alt text](https://ttm.sh/dK9.png)
+                              
                
-DOXING TOOL            
-               
-               
-
