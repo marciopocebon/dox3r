@@ -3,8 +3,8 @@
 **PRÉ-RECQUIS** 
 
 * python3
-* pip install pylint
-* pip install requests
+* pip3 install pylint
+* pip3 install requests
 
 **DÉMARRER DOX3R**
 
